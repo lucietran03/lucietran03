@@ -46,8 +46,8 @@ Here are some of the projects I've worked on:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,vscode,docker,c,cpp,java,python,javascript,typescript,html,css,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,rabbitmq,firebase,bash,linux,aws,googlecloud,spring,ai,supabase" />
   </a>
-</p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucietran03&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lucietran03's GitHub Stats" /></div> -->
+</p> -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucietran03&theme=default&show_icons=true&hide_border=true&layout=compact" alt="lucietran03's GitHub Stats" /></div>
 
 ## Connect with Me 📫
 
